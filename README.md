@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" src="https://github.com/PruthviSooni/PruthviSooni/blob/master/logo.gif"  height="380"/>
+<img align="right" src="https://github.com/PruthviSooni/PruthviSooni/blob/master/logo.gif"  height="280"/>
 <p>
   - 🌱 I’m currently Fresher who is persuing BE in Information Technology ⚙ 
 </p>
