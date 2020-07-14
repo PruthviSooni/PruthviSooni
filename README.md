@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://giphy.com/gifs/life-bugs-programmer-2KAGlmkPywhZS" align="left"/>
 <p>
   - 🌱 I’m currently Fresher who is persuing BE in Information Technology ⚙ 
 </p>
