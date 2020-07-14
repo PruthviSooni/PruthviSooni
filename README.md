@@ -1,11 +1,15 @@
 ### Hi there 👋
-<img src="https://giphy.com/gifs/life-bugs-programmer-2KAGlmkPywhZS" align="left"/>
+<img src="https://github.com/PruthviSooni/PruthviSooni/blob/master/giphy.gif" align="right" height="190"/>
 <p>
-  - 🌱 I’m currently Fresher who is persuing BE in Information Technology ⚙ 
+  - 🌱 I’m currently Fresher who is persuing BE in Information Technology ⚙ <br>
+  - 🔭 I’m currently working on developing my skill on developing applications using flutter 🎯📱
 </p>
+
 <p>- 📫 How to reach me: 
 <ul><li> <a href="https://www.instagram.com/pruthvi.sooni/"> Instagram<a/></li><li> <a href="https://www.linkedin.com/in/pruthvi-sooni/"> Linkedin<a/></li> <li> <a href="https://twitter.com/PruthviSooni"> Twitter <a/></li> </p>
-     
+ 
+
+
       
  
 <!--
@@ -13,7 +17,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on
+
+ ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -21,4 +27,4 @@ Here are some ideas to get you started:
  ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
