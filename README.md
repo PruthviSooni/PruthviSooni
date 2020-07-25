@@ -1,9 +1,9 @@
 ### Hi there 👋
 <p>
   - 🌱 I’m currently Fresher who is persuing BE in Information Technology ⚙ <br>
-  - 🔭 I’m currently working on developing my skill on developing applications using flutter 🎯📱<br>
-  - 📫 How to reach me:<ul>
-    <li> <a href="https://www.instagram.com/pruthvi.sooni/"> Instagram<a/></li>
+  - 🔭 I’m currently working on developing my skills for developing app's using flutter 🎯📱<br>
+  - 📫 How to reach me:
+  <ul>
     <li> <a href="https://www.linkedin.com/in/pruthvi-sooni/"> Linkedin<a/></li> 
     <li> <a href="https://twitter.com/PruthviSooni"> Twitter <a/></li> 
   </ul>
