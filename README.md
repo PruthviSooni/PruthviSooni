@@ -1,14 +1,21 @@
 ### Hi there 👋
-<img src="https://github.com/PruthviSooni/PruthviSooni/blob/master/giphy.gif" align="right" height="190"/>
 <p>
   - 🌱 I’m currently Fresher who is persuing BE in Information Technology ⚙ <br>
-  - 🔭 I’m currently working on developing my skill on developing applications using flutter 🎯📱
+  - 🔭 I’m currently working on developing my skill on developing applications using flutter 🎯📱<br>
+  - 📫 How to reach me: 
+  <ul>
+    <li> <a href="https://www.instagram.com/pruthvi.sooni/"> Instagram<a/></li>
+    <li> <a href="https://www.linkedin.com/in/pruthvi-sooni/"> Linkedin<a/></li> 
+    <li> <a href="https://twitter.com/PruthviSooni"> Twitter <a/></li> 
+  </ul>
 </p>
 
-<p>- 📫 How to reach me: 
-<ul><li> <a href="https://www.instagram.com/pruthvi.sooni/"> Instagram<a/></li><li> <a href="https://www.linkedin.com/in/pruthvi-sooni/"> Linkedin<a/></li> <li> <a href="https://twitter.com/PruthviSooni"> Twitter <a/></li> </p>
- 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvisooni&hide=kotlin,javascript&show_icons=true&theme=default " />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pruthvisooni&show_icons=true&theme=default &line_height=27" alt="Anurag's github stats" />
+</a>
 
       
  
@@ -27,4 +34,5 @@ Here are some ideas to get you started:
  ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+!-->
 
