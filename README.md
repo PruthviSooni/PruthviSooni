@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" src="giphy.gif" width="100"/>
+<img align="right" src="https://github.com/PruthviSooni/PruthviSooni/blob/master/giphy.gif" width="100"/>
 <p>
   - 🌱 I’m currently Fresher who is persuing BE in Information Technology ⚙ <br>
   - 🔭 I’m currently working on developing my skills for developing app's using flutter 🎯📱<br>
