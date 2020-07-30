@@ -10,7 +10,7 @@
 </p>
 
 <a href="https://github.com/pruthvisooni/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvisooni&hide=kotlin,css&show_icons=true&theme=default " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvisooni&hide=kotlin,css,javascript&show_icons=true&theme=default " />
 </a>
 <a href="https://github.com/pruthvisooni/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pruthvisooni&show_icons=true&theme=default &line_height=27" alt="Anurag's github stats" />
