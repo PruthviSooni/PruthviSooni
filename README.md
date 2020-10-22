@@ -1,14 +1,9 @@
 ### Hi there 👋
-<p>
+
   - 🌱 I’m currently Fresher who is persuing BE in Information Technology ⚙ <br>
   - 🔭 I’m currently working on developing my skills for developing app's using flutter 🎯📱<br>
-  - 📫 How to reach me:
-  <ul>
-    <li> <a href="https://www.linkedin.com/in/pruthvi-sooni/"> Linkedin<a/></li> 
-    <li> <a href="https://twitter.com/PruthviSooni"> Twitter <a/></li> 
-  </ul>
-</p>
-
+  
+  
 <a href="https://github.com/pruthvisooni/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvisooni&hide=kotlin,css,javascript&show_icons=true&theme=default " />
 </a>
@@ -16,22 +11,25 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pruthvisooni&show_icons=true&theme=default &line_height=27" alt="Anurag's github stats" />
 </a>
 
-      
- 
-<!--
-**PruthviSooni/PruthviSooni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <hr>
+<p align="center">
+  <i>Let's connect.</i>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <a href="https://twitter.com/PruthviSooni" alt="Twitter">
+      <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg">
+  </a>
+    <a href="https://www.linkedin.com/in/pruthvisooni/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:pruthvisoni7@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://pruthvisoni.js.org" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
 
-- 🔭 I’m currently working on
-
- ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
- ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-!-->
-
+  <p align="center">
+    <a href="http://hits.dwyl.com/Pruthvisooni">
+      <img align="center" src="http://hits.dwyl.com/Pruthvisooni/PruthviSooni/PruthviSooni.svg">
+    </a>
+    <a href="https://visitor-badge.glitch.me/badge?page_id=PruthviSooni">
+      <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=PruthviSooni">
+  </a>
+  </p>
+</p>
