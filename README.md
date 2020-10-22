@@ -23,9 +23,6 @@
   </p>
 
   <p align="center">
-    <a href="http://hits.dwyl.com/Pruthvisooni">
-      <img align="center" src="http://hits.dwyl.com/Pruthvisooni/PruthviSooni/PruthviSooni.svg">
-    </a>
     <a href="https://visitor-badge.glitch.me/badge?page_id=PruthviSooni">
       <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=PruthviSooni">
   </a>
