@@ -1,9 +1,7 @@
 ### Hi there 👋
 
   - 🌱 I’m currently Fresher who is persuing BE in Information Technology ⚙ <br>
-  - 🔭 I’m currently working on developing my skills for developing app's using flutter 🎯📱<br>
-  
-  
+  - 🔭 I’m currently working on  something cool 😎 <br>
 <a href="https://github.com/pruthvisooni/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvisooni&hide=kotlin,css,javascript&show_icons=true&theme=default " />
 </a>
