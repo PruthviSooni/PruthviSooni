@@ -6,10 +6,10 @@
 - 🔭 I’m currently learning React ⚛️
 
   <a href="https://github.com/pruthvisooni/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvisooni&hide=kotlin,css,javascript&show_icons=true&theme=default&bg_color=0D1117&text_color=FFFFFF " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvisooni&hide=kotlin,css,javascript&show_icons=true&theme=default&bg_color=0D1117&text_color=FFFFFF&hide_border=true " />
   </a>
   <a href="https://github.com/pruthvisooni/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pruthvisooni&show_icons=true&theme=default &line_height=27&bg_color=0D1117&text_color=FFFFFF" alt="Pruthvi_Soni's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pruthvisooni&show_icons=true&theme=default &line_height=27&bg_color=0D1117&text_color=FFFFFF&hide_border=true" alt="Pruthvi_Soni's github stats" />
   </a>
     <hr>
 
