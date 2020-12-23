@@ -1,9 +1,6 @@
-### Hi there 👋
-
-- 🌱 I’m currently Fresher who is pursuing BE in Information Technology ⚙
-- 😍 I'm Good at Developing Application using Flutter 📱
-- 📚 Self Learner
-- 🔭 I’m currently learning React ⚛️
+## Hi 👋
+#### I am Pruthvi Soni
+<p> Currently i am undergraduate IT student who is Passionate about learning latest technology for Mobile and web app development & i am good at developing cross platform apps using Flutter</p>
 
   <a href="https://github.com/pruthvisooni/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvisooni&hide=kotlin,css,javascript&show_icons=true&theme=default&bg_color=0D1117&text_color=FFFFFF&hide_border=true " />
