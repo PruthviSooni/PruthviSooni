@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pruthvi Soni</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">I am a software developer with a passion for developing innovative application</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthvisooni&label=Profile%20views&color=0e75b6&style=flat" alt="pruthvisooni" /> <img src="https://wakatime.com/badge/user/d4b6a03f-d30d-44ff-8e42-427244fd00ce.svg"/></p> 
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pruthvisoni7@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/dnrI7](shorturl.at/dnrI7)
+- 📄 Know about my experiences [shorturl.at/opzX6](shorturl.at/dnrI7)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
