@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pruthvisooni&theme=onedark&margin-w=15" alt="pruthvisooni" /></a> </p>
 
-- 👨‍💻 Checkout my portfolio at [https://pruthvisoni.js.org/](https://pruthvisoni.js.org/)
+- 👨‍💻 Checkout my portfolio at [pruthvisoni.js.org](https://pruthvisoni.js.org/)
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **pruthvisoni7@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/opzX6](shorturl.at/dnrI7)
+- 📄 Know about my experiences [My Resume](https://shorturl.at/opzX6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
