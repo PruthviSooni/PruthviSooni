@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pruthvi Soni</h1>
-<h3 align="center">I am a software developer with a passion for developing innovative application</h3>
+<h3 align="center">I am a software developer with a passion for developing innovative applications</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=pruthvisooni&label=Profile%20views&color=0e75b6&style=flat" alt="pruthvisooni" /> 
@@ -75,9 +75,6 @@
     </p>
     <p>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvisooni&" alt="pruthvisooni" />
-    </p>
-    <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pruthvisoni" alt="pruthvisooni" />
     </p>
   </div>
 
