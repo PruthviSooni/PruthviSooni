@@ -36,6 +36,7 @@
     </a>
   </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
     <a href="https://dart.dev" target="_blank"> 
@@ -67,7 +68,9 @@
     </a> 
   </p>
 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 <h3 align="left">Stats:</h3>
   <div class="row">
     <p>
