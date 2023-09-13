@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋, I'm Pruthvi Soni</h1>
 <h3 align="center">I am a software developer with a passion for developing innovative applications</h3>
 
+-------
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=pruthvisooni&label=Profile%20views&color=0e75b6&style=flat" alt="pruthvisooni" /> 
   <img src="https://wakatime.com/badge/user/d4b6a03f-d30d-44ff-8e42-427244fd00ce.svg"/>
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=pruthvisooni&theme=onedark&margin-w=10&margin-h=10" alt="pruthvisooni"/>
-  </a>
-</p>
+-------
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PruthviSooni&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PruthviSooni&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PruthviSooni&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PruthviSooni&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PruthviSooni&theme=github_dark)
+
+-------
 
 - 👨‍💻 Checkout my portfolio at [pruthvisoni.js.org](https://pruthvisoni.js.org/)
 
@@ -19,6 +24,8 @@
 - 📫 How to reach me **pruthvisoni7@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://shorturl.at/opzX6)
+
+-------
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
@@ -36,6 +43,7 @@
     </a>
   </p>
 
+-------
 
 <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
@@ -68,19 +76,11 @@
     </a> 
   </p>
 
-<!--START_SECTION:waka-->
+-------
 
-<!--END_SECTION:waka-->
-<h3 align="left">Stats:</h3>
-  <div class="row">
-    <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=pruthvisooni&show_icons=true&locale=en" alt="pruthvisooni" />
-    </p>
-    <p>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthvisooni&" alt="pruthvisooni" />
-    </p>
-  </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PruthviSooni&theme=dark&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=590&type=png)](https://git.io/streak-stats)
 
+-------
 
 <h3 align="left">Support:</h3>
   <p>
